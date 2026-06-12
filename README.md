@@ -17,3 +17,5 @@ Este projeto demonstra a construção de um pipeline de dados completo (End-to-E
   
   ## 📊 Visualização do Dashboard
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d23141e-c2fa-40ab-ba9e-2a3eebd40ea4" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f189d6d-bfad-483f-b0b2-fc74fec31def" />
