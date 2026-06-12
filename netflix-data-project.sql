@@ -1,0 +1,1 @@
+SELECT * FROM public.fact_watch_events LIMIT 10;
